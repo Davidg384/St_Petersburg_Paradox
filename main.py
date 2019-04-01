@@ -1,3 +1,5 @@
+# Buffon's experiment v2, CSC edition'
+
 from collections import defaultdict
 from math import log
 from os import getcwd
